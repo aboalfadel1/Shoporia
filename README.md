@@ -1,4 +1,4 @@
-🛒 Welcome to Your MERN Stack E-Commerce Project
+# 🛒 Welcome to Your MERN Stack E-Commerce Project
 📦 Project Overview
 This is a modern full-stack MERN eCommerce application delivering fast, scalable, and customizable online shopping experiences. The backend is built with Node.js, Express, and MongoDB, while the frontend uses React with modern UI components for a responsive and user-friendly interface.
 
